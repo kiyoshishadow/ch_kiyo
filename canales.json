@@ -15,4 +15,5 @@
   { "id": 14, "nombre": "TVO Canal 23", "url": "https://tvo.flynetwifi.com/5crjmr1645tqt71ovagufgc1x3d/playlist.m3u8" },
   { "id": 15, "nombre": "Canal 2", "url": "https://signal.teleon.live/stream/canal2sv.m3u8?token=free" },
   { "id": 16, "nombre": "Canal 4", "url": "https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8" }
+  { "id": 17, "nombre": "Chmexican", "url": "http://38.134.250.110:8000/play/a01g/index.m3u8" }
 ]
